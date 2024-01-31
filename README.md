@@ -33,7 +33,7 @@ Code Readability: Although it has no effect on the look of the webpage, adding s
 Customization with CSS: Although the browser sets the default appearance, <ul> is chosen for meaning, and CSS can be applied later for visual changes.
 Note- Unordered and ordered lists are quite similar, except for the wrapping element they use.
 
-In HTML, the "definition list" or "description list" is a distinct type of list used to create key-value pairs. Unlike traditional lists, this type involves terms and their corresponding descriptions. The structure involves specific elements: <dt> for the term and <dd> for the description, allowing multiple descriptions for a single term. The entire list is enclosed in a <dl> tag, with <dt> and <dd> tags placed side by side, reflecting the inherent structure of a definition list.
+<!-- In HTML, the "definition list" or "description list" is a distinct type of list used to create key-value pairs. Unlike traditional lists, this type involves terms and their corresponding descriptions. The structure involves specific elements: <dt> for the term and <dd> for the description, allowing multiple descriptions for a single term. The entire list is enclosed in a <dl> tag, with <dt> and <dd> tags placed side by side, reflecting the inherent structure of a definition list.
 
 HTML Quotes
 The <blockquote> and <cite> elements in HTML serve a semantic purpose by conveying information about content. They inform other computers about the nature of the content. Additionally, these elements offer a convenient means for applying custom styling using CSS, allowing the customization of the appearance of blockquotes and giving them a distinct look.
@@ -58,7 +58,7 @@ To do that, use the pre element and HTML. You can now see that the browser respe
 
 HTML Superscripts, Subscripts and Small Text
 The small, sub, and sup elements in HTML play a crucial role in fine-tuning typography and ensuring precise representation for conveying the complete meaning of your content.
-Subscripts are characters that are set below the normal baseline for text.
+Subscripts are characters that are set below the normal baseline for text. -->
 
 
 
