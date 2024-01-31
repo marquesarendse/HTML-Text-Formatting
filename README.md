@@ -36,7 +36,7 @@ Note- Unordered and ordered lists are quite similar, except for the wrapping ele
 In HTML, the "definition list" or "description list" is a distinct type of list used to create key-value pairs. Unlike traditional lists, this type involves terms and their corresponding descriptions. The structure involves specific elements: <dt> for the term and <dd> for the description, allowing multiple descriptions for a single term. The entire list is enclosed in a <dl> tag, with <dt> and <dd> tags placed side by side, reflecting the inherent structure of a definition list.
 
 HTML Quotes
-<!--The <blockquote> and <cite> elements in HTML serve a semantic purpose by conveying information about content. They inform other computers about the nature of the content. Additionally, these elements offer a convenient means for applying custom styling using CSS, allowing the customization of the appearance of blockquotes and giving them a distinct look.
+<-- The <blockquote> and <cite> elements in HTML serve a semantic purpose by conveying information about content. They inform other computers about the nature of the content. Additionally, these elements offer a convenient means for applying custom styling using CSS, allowing the customization of the appearance of blockquotes and giving them a distinct look.
 
 For simplicity, utilize the "<q>" element in HTML, denoting a quote, which automatically adds appropriate quote marks. In an example, the quote is translated into different languages, showcasing variations in quote marks. Understanding HTML involves comparing the blockquote element to inline elements like <strong>, <b>, <i>, and <em>, designed to wrap around text phrases inline with content. HTML offers numerous inline elements for various formatting needs.
 
